@@ -165,3 +165,137 @@
     min-height: 500px;
     padding: 140px 0 10%;
 }
+
+.front-page__h2 {
+  color: var(--Orange);
+  font-family: var(--fontFamily-coco);
+  font-weight: normal;
+  text-align: left;
+  font-size: var(--fontSize-h2);
+}
+
+.front-page__h1 {
+  text-align: left;
+  font-weight: 900;
+  background-image: url(./images/h1-background.jpg);
+  font-size: var(--fontSize-h1);
+  font-family: var(--fontFamily-coco);
+  background-clip: unset;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-font-smoothing: antialiased;
+}
+
+.front-page__message {
+  border: 1px solid white;
+  padding: 2%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-family: var(--fontFamily-lato);
+}
+
+.front-page__date {
+  color: var(--Grey);
+  font-weight: 800;
+  font-size: var(--fontSize-h2);
+  font-family: var(--fontFamily-lato);
+  text-align: center;
+}
+
+.front-page__location {
+  color: var(--Black);
+  text-align: center;
+  font-family: var(--fontFamily-lato);
+}
+
+.features {
+  background: #272a31 url(./images/pattern-bg.png);
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+.features__head h2 {
+  color: var(--White);
+  text-align: center;
+  font-family: var(--fontFamily-lato);
+}
+
+.section__hr {
+  width: 50px;
+  margin: auto;
+  margin-top: 10px;
+  border-color: var(--Orange);
+  margin-bottom: 30px;
+}
+
+.feature__grid {
+  display: grid;
+  grid-template: repeat(5, 1fr) / 1fr;
+  gap: 20px;
+}
+
+.features__cards {
+  background-color: rgba(255, 255, 255, 0.1);
+  display: grid;
+  grid-template: 1fr /0.3fr 0.9fr 3fr;
+  justify-content: left;
+  align-items: center;
+  align-content: space-between;
+  padding: 7%;
+  gap: 27px;
+}
+
+.globeicon {
+  width: 45px;
+  height: 45px;
+  color: red;
+}
+
+.features__cards h3 {
+  color: var(--Orange);
+  text-align: center;
+  min-width: 83px;
+  font-family: var(--fontFamily-lato);
+  font-size: var(--fontSize-h3);
+}
+
+.features__cards p {
+  font-family: var(--fontFamily-lato);
+  color: var(--White);
+  font-size: var(--font-size-p);
+}
+
+.tour_button {
+  height: 80px;
+  width: 80px;
+  margin: auto;
+  font-size: var(--fontSize-h3);
+  margin-top: 50px;
+  font-weight: bold;
+  color: var(--White);
+  border: 0;
+  background-color: var(--Orange);
+}
+
+.footer {
+  background-color: #414246 !important; 
+}
+
+.footer p {
+  color: var(--White) !important;
+}
+
+#staff .flex-container {
+  width: 90%;
+  margin: auto;
+  display: grid;
+  gap: 50px;
+  align-items: center;
+}
+
+.staff__head h2 {
+  color: var(--Black);
+  font-family: var(--fontFamily-lato);
+  font-weight: 600;
+  text-align: center;
+}
