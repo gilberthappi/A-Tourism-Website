@@ -316,3 +316,12 @@
   color: var(--Black);
   font-weight: 800;
 }
+
+.staff__description h4 {
+  margin-top: 10px;
+  font-family: var(--fontFamily-lato);
+  color: var(--Orange);
+  font-style: italic;
+  font-weight: 400;
+}
+
