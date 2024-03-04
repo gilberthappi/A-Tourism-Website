@@ -1,0 +1,95 @@
+.front-page__message {
+    text-align: center;
+}
+
+body {
+    background-color: white;
+}
+
+.about-page {
+    position: relative;
+}
+
+.about-page::before {
+    content: " ";
+    display: block;
+    position: absolute;
+    left: 0;
+    top: -70px;
+    z-index: -1;
+    opacity: 0.4;
+    width: 100%;
+    height: 116%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(./images/world-background.jpg);
+}
+
+.flex-about-container {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: auto;
+    margin-top:  70px;
+}
+
+.about-page .flex-about-container {
+    justify-content: center;
+    min-height: 500px;
+    align-items: center;
+}
+
+.about-page__message {
+    background-color: rgba(255,255,255, 0.5);
+    z-index: 2;
+    line-height: 27px;
+    text-align: center;
+    content: " ";
+    display: block;
+    display: flex;
+    border: 1px solid pink;
+    padding: 2%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.about-page__message p {
+    color: var(--black);
+    opacity: 1;
+}
+
+.about-page__contact {
+    font-family: var(--fontFamily-lato);
+    font-size: 16px;
+    color: var(--black);
+    text-align: center;
+    font-weight: normal;
+    width: 70%;
+    align-self: center;
+}
+
+.about-page__email {
+    margin-top: 12px;
+    text-align: center;
+}
+
+.about-page__email a {
+    font-family: var(--fontFamily-lato);
+    color: var(--black);
+    text-align: center;
+}
+
+.about-logo {
+    margin-top: 82px;
+}
+
+.about-logo,
+.tours,
+.about-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 85px;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid var(--White)
+}
