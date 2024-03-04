@@ -8,8 +8,8 @@
 
 It consists of two webpages Home and About with both being responsive to desktop and mobile layouts.
 
-![Final look of website](https://github.com/gilberthappi/A-Tourism-Website/blob/main/images/finalimage.jpeg)
-
+![Final look of website]("./images/finalimage.jpeg")
+ 
 
 ## Built With
 
@@ -38,8 +38,8 @@ It consists of two webpages Home and About with both being responsive to desktop
 👤 **Eng Happi Gilbert**
 
 > * This is My **GitHub**: ![GitHub](https://github.com/gilberthappi/A-Tourism-Website)
-> * This is My **Linkedin**: ![Linkedin](https://www.linkedin.com/in/dushimimana-gilbert-happi)&nbsp;
-> * This is My **Twitter**: ![Twitter](https://twitter.com/DushimimanaGil3)&nbsp;
+> * This is My **Linkedin**: ![Linkedin](https://www.linkedin.com/in/dushimimana-gilbert-happi)
+> * This is My **Twitter**: ![Twitter](https://twitter.com/DushimimanaGil3)
 
 ## 🤝 Contributions
 
