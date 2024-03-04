@@ -17,7 +17,7 @@ It consists of two webpages Home and About with both being responsive to desktop
 
 ## Live Demo
 
-- [Live Demo Link]()
+- [Live Demo Link](https://gilberthappi.github.io/A-Tourism-Website/)
 
 ## Getting Started
 
