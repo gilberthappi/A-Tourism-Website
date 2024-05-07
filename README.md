@@ -9,7 +9,6 @@
 It consists of two webpages Home and About with both being responsive to desktop and mobile layouts.
 
 ![Final look of website]("./images/finalimage.jpeg")
- 
 
 ## Built With
 
