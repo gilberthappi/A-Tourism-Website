@@ -6,7 +6,7 @@
 
 > This project is for completing my Capstone Project requirements for first module at Microverse. It consists of two webpages for a touring company called Alpha Tours, which offers international tour packages.
 
-It consists of two webpages Home and About with both being responsive to desktop and mobile layouts.
+It consists of two webpages Home and About with both being responsive to desktop and mobile layouts3.
 
 ![Final look of website]("./images/finalimage.jpeg")
 
