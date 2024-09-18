@@ -2,7 +2,7 @@
 
 # Module1--capstone_project
 
-# Aplha Tours
+# Aplha Tours web
 
 > This project is for completing my Capstone Project requirements for first module at Microverse. It consists of two webpages for a touring company called Alpha Tours, which offers international tour packages.
 
